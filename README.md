@@ -1,6 +1,6 @@
 # Image-classification-with-unbalanced-classes
 
-The goal of this task is that you should be able to get started with a starter code and modify the code for your own classification problem as well as be able to incorporate undersampling and oversampling in your code which are standard strategies for dealing with unbalanced class data.
+The goal of this task is to incorporate undersampling and oversampling in your code which are standard strategies for dealing with unbalanced class data.
 
 - The dataset is the Stanford Dog dataset which comprises of 120 dog classes. There are approximately ~200 images per dog category. The web page for the dataset is at http://vision.stanford.edu/aditya86/ImageNetDogs/ . 
 

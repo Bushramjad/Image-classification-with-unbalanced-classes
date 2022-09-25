@@ -1,7 +1,5 @@
 # Image-classification-with-unbalanced-classes
 
-The goal of this task is to incorporate undersampling and oversampling in your code which are standard strategies for dealing with unbalanced class data.
-
 - The dataset is the Stanford Dog dataset which comprises of 120 dog classes. There are approximately ~200 images per dog category. The web page for the dataset is at http://vision.stanford.edu/aditya86/ImageNetDogs/ . 
 
 -  The first step is data preparation. The Stanford dataset itself is balanced. We want to first create an unbalanced dataset out of it. To do this we have written a script in python which orders the class folders from highest to lowest number of images in them. The highest training examples for a class are 252. 
